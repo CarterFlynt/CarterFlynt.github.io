@@ -13,7 +13,7 @@ Authors - [Jordan Sheely](https://jordanlsheely.github.io/jordanlsheely/)-[Austi
 
 The data set covered was a kaggle data set on Space Mission launches, includes all of the space missions that have been launched since the beginning of Space Race in 1957! - [Dataset](https://www.kaggle.com/datasets/salmane/space-missions-launches)
 
-##Does experience affect success rate?
+## Does experience affect success rate?
 
 ![](Slide2.jpeg)
 
@@ -23,7 +23,7 @@ Method: We made a pivot table of launch status by country of origin, then divide
 
 Finding: The two variables appear to follow a logarithmic distribution.
 
-##Which countries launch the most?
+## Which countries launch the most?
 
 ![](Slide3.jpeg)
 
@@ -33,7 +33,7 @@ Method: We built a pivot table of total launches per country and charted the mos
 
 Finding: Russia and the USA have a much higher presence in space launches than any other country.
 
-##How have launches changed over time?
+## How have launches changed over time?
 
 ![](Slide4.jpeg)
 
@@ -43,7 +43,7 @@ Method: We filtered the data to the relevant columns, used a pivot table to coun
 
 Finding: There were two major spikes in rocket launches within the past 70 years. One during the space race (60s-70s) and in the laste 2010s.
 
-##How much do launches cost?
+## How much do launches cost?
 
 ![](Slide5.jpeg)
 
