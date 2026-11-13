@@ -6,7 +6,8 @@ image: Slide1.jpeg
 lightbox: true
 format: html
 ---
-Authors - [Jordan Sheely]https://jordanlsheely.github.io/jordanlsheely/)-[Austin Horton](https://austin-horton.github.io/)-[Elliot Boyd](http://elliottboyd.github.io/)-[Carter Flynt](https://carterflynt.github.io/)-[Jace Keller](https://jace1206.github.io/)
+
+Authors - [Jordan Sheely](https://jordanlsheely.github.io/jordanlsheely/)-[Austin Horton](https://austin-horton.github.io/)-[Elliot Boyd](http://elliottboyd.github.io/)-[Carter Flynt](https://carterflynt.github.io/)-[Jace Keller](https://jace1206.github.io/)
 
 ## DATA SET
 
@@ -50,6 +51,6 @@ Question: What is the statistical distribution of rocket launch prices?
 
 Method: We adjusted each launch’s cost to 2025 dollars using each year’s CPI, then grouped the launches into price bins and counted them.
 
-Finding: Nearly all rocket launches cost $7 million to $107 million (in 2025 dollars).
+Finding: Nearly all rocket launches cost \$7 million to \$107 million (in 2025 dollars).
 
 Note: Many launches had no listed price and were excluded.
