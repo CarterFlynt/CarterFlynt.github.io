@@ -26,12 +26,5 @@
     "title": "Welcome To My Blog",
     "section": "",
     "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Carter Flynt",
-    "section": "",
-    "text": "about:\ntemplate: jolla\nlinks:\n\nicon: github\n\ntext: GitHub\nhref: https://github.com/CarterFlynt\n\nicon: linkedin\n\ntext: LinkedIn\nhref: https://www.linkedin.com/in/carter-flynt-196358303/\n\nicon: inboxes\n\ntext: Contact\nhref: cf121@uark.edu"
   }
 ]
